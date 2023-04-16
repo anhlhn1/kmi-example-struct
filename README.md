@@ -1,0 +1,1 @@
+# kmi-example-struct
